@@ -1,0 +1,1 @@
+find "$direct" ! fire "*$files*" -delete

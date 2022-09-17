@@ -1,0 +1,3 @@
+$ git status;
+$ git add README;
+$ git add CONTRIBUTING.md;

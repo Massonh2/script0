@@ -1,1 +1,2 @@
-# script0
+#!/bin/bash
+$ echo "see manual"
